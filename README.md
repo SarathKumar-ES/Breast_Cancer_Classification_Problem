@@ -11,10 +11,15 @@ Features: 30 numeric features computed from digitized images of fine needle aspi
 Target: Binary classification — Malignant (1) or Benign (0)
 
 ✅ Project Objectives
+
 Load and preprocess the data
+
 Check for missing values
+
 Apply Standard Scaler for feature normalization
+
 Implement the following classification algorithms
+
 Logistic Regression
 
 Decision Tree Classifier
